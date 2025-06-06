@@ -1,0 +1,6 @@
+obj/
+.settings/
+.vscode/
+/Release/
+/Debug/
+.metadata/
